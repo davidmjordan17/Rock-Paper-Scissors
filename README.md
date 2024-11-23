@@ -12,3 +12,7 @@ This project demonstrates core programming concepts like event handling, DOM man
 - JavaScript basics: Random number generation, conditionals, and functions
 - DOM manipulation: Updating content dynamically based on user interaction
 - Event handling: Detecting button clicks and responding to user actions
+
+## How to Run
+1. Clone this repository
+2. Open the `index.html` file in your browser to play the game and enjoy!
