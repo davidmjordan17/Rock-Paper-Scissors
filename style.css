@@ -6,7 +6,7 @@ html, body {
 }
 
 .wrapper {
-  background: #1c1c1c;
+  background: #214958;
   color: white;
   display: flex;
   align-items: center;
@@ -18,7 +18,7 @@ html, body {
 
 .buttons {
   display: flex;
-  gap: 20px;
+  gap: 40px;
 }
 
 button {
@@ -34,5 +34,20 @@ button {
   font-size: 2rem;
   text-align: center;
   margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
 }
 
+.clear-button-text{
+  margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+
+#result{
+  margin-bottom: 15px;
+}
+
+#endGameButton:hover{
+  transform: scale(1.1);
+}
